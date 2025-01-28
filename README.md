@@ -1,4 +1,4 @@
-# CSV Data Visualizer 🛠️📊💻
+# CSVisualizer 📊
 
 A modern, interactive web application for visualizing CSV data through various chart types. Built with React, TypeScript, and Recharts, this application provides an intuitive interface for data analysis and visualization.
 

@@ -1,22 +1,20 @@
-# CSV Data Visualizer
+# CSV Data Visualizer 🛠️📊💻
 
 A modern, interactive web application for visualizing CSV data through various chart types. Built with React, TypeScript, and Recharts, this application provides an intuitive interface for data analysis and visualization.
 
-![CSV Data Visualizer](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2000)
-
 ## Features
 
-- 📤 **Easy Data Upload**: Drag and drop or select CSV files
-- 📊 **Multiple Chart Types**: 
+- **Easy Data Upload**: Drag and drop or select CSV files
+- **Multiple Chart Types**: 
   - Line Charts
   - Bar Charts
   - Scatter Plots
-- 🎨 **Customization Options**:
+- **Customization Options**:
   - Chart type selection
   - X and Y axis configuration
   - Color schemes
-- 📋 **Data Preview**: View your data in a clean, paginated table
-- 🎯 **Sample Data**: Try the application with pre-loaded sample data
+- **Data Preview**: View your data in a clean, paginated table
+- **Sample Data**: Try the application with pre-loaded sample data
 
 ## Usage Guide
 
@@ -26,8 +24,6 @@ You have two options to get started:
 
 #### Option A: Load Sample Data
 Click the "Load Sample Data" button to explore the application with pre-loaded weather data including temperature, humidity, and pressure measurements.
-
-![Sample Data Button](https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&q=80&w=2000)
 
 #### Option B: Upload Your Own CSV
 - Click the upload area or drag and drop your CSV file

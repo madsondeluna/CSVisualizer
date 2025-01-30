@@ -2,8 +2,6 @@
 
 A modern, interactive web application for visualizing CSV data through various chart types. Built with React, TypeScript, and Recharts, this application provides an intuitive interface for data analysis and visualization.
 
-![Application Screenshot](https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=2000)
-
 ## Getting Started
 
 ### Prerequisites
